@@ -11,13 +11,13 @@
     "logo": "https://xtaolabs.com/pagermaid-logo.png",
     "env": {
       "api_key": {
-        "description": "你的 Telegram 账号 api key。"
+        "description": "10887427"
       },
       "api_hash": {
-        "description": "你的 Telegram 账号 api hash。"
+        "description":"ab2572358b581bca55d3d80c096f465e"
       },
       "session": {
-        "description": "你的 Telegram 账号 session。参考 https://gitlab.com/Xtao-Labs/pagermaid-modify#session"
+        "description": "1BVtsOH4BuyVexGtvdW53Kz9NuOA3RfMoJx3erz_gMCw-4l2LYTgPOVQIc6c1Szi1NdFP9sfUhtZuoGvNeriJ5QxIO8Jkyxo26gp47zUjr6eXb6joUWRgG6EEjGGPiQTmb4rINFK1VS0onC4Q9R6msbTS1u8Kj5bdoaM2vnQv739YOQ1lXUZVGCHYbWsOPJE_QxI-0C7_MON-K2EnzJCll7VmC5PdgCpRJLedRxLkM67My78S5z_P3jj40QPKkuYAM6fVZ4hFj5CPq40dTBTQF0DUERg26ZQ4-e3DT7O-HddxjU6FgY4Eh6ybOO186ApD-52mVpLtTo_3XImN_s2qmoYL1KiGeZ4="
       }
     },
     "stack": "container"
